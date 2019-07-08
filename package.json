@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",
-    "parcel-bundler": "^1.7.1"
+    "parcel-bundler": "^1.10.0"
   },
   "dependencies": {
     "reveal": "^0.0.4"
